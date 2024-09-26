@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-color: black;
+    background-color: #6495ED;
     font-family: arial, Helvetica, Sans-Serif;
 }
 
@@ -33,14 +33,15 @@ header img{
 }
 
 h1{
-    color: green;
+    color: #6495ED;
 }
+
 
 footer img{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    border: 5px solid red;
+    border: 5px solid green;
     
 }
 
@@ -69,15 +70,6 @@ nav a:hover{
 footer a:hover{
     color: green;
 }
-
-
-
-
-
-
-
-
-
 
 
 
